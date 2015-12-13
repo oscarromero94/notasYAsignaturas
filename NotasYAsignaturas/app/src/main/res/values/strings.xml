@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen Oscar</string>
+    <string name="action_settings">Opciones</string>
+    <string name="nombre">Nombre:</string>
+    <string name="idioma">Idioma: Español</string>
+    <string name="alumno">Alumno</string>
+
+</resources>
